@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bot:home|Door43 (bot)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bot|d43-bot repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bot/archive/master.zip|d43-bot.zip]]
+
+**Recent Changes**
+{{changes>ns = bot}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bot|Ethnologue data]]
+
